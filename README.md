@@ -6,11 +6,24 @@ An Employee Management Tool, use for keeping the employee records, reading the i
 
 ## Tech Stack
 
-**Client:** Angular 14, Bootstrap 5, HTML 5, CSS 3
+**Client:** Angular 14, TypeScript, Bootstrap 5, HTML 5, CSS 3
 
-**Server:** ASP.NET Core 6, REST API, MSSQL Server, Entity Framework Core
+**Server:** C#, ASP.NET Core 6, REST API, MSSQL Server, Entity Framework Core
 
 **IDE/Tools:** Microsoft Visual Studio, Microsoft Visual Studio Code, Microsoft SQL Server Management Studio
+
+
+## Documentation
+
+**Project Description:** In this project I've tried to build an Employee Management System, which will keep all the employee details of an organization.
+The Basic CRUD operation has performed in order to make this project functional, which are Create, Read, Update and Delete any record.
+
+**Back-end Task:** I've chosen ASP.NET Core 6 backend framework to build and generate the REST API which are POST(create), GET(read), PUT(update) and DELETE(delete) by communicating with the database.
+The API of this project follow the RESTful Web Service and HTTP Protocol and documented with the help of Swagger API Documentation Support.
+For Database table creation and data migration, I used Entity Framework Core ORM Tool, And Microsoft SQL Server Management Studio is used for Database Management purpose.
+
+**Front-end Task:** To visualize content on client side (in browser) I've used, component-based front-end framework ANGULAR_14. 
+Specific Components and webpages are created with HTML, Bootstrap and CSS.
 
 ## Demo (Screenshots)
 
@@ -33,20 +46,6 @@ An Employee Management Tool, use for keeping the employee records, reading the i
 ![Database and webpage view update after Editing](https://github.com/h-Hasib/Employee-Management-System/blob/main/Screenshots/9.png)
 
 ![API Integration for GET all the Employee](https://github.com/h-Hasib/Employee-Management-System/blob/main/Screenshots/10.png)
-
-## Documentation
-
-**Project Description:** In this project I've tried to build an Employee Management System, which will keep all the employee details of an organization.
-The Basic CRUD operation has performed in order to make this project functional, which are Create, Read, Update and Delete any record.
-
-**Back-end Task:** I've chosen ASP.NET Core 6 backend framework to build and generate the REST API which are POST(create), GET(read), PUT(update) and DELETE(delete) by communicating with the database.
-The API of this project follow the RESTful Web Service and HTTP Protocol and documented with the help of Swagger API Documentation Support.
-For Database table creation and data migration, I used Entity Framework Core ORM Tool, And Microsoft SQL Server Management Studio is used for Database Management purpose.
-
-**Front-end Task:** To visualize content on client side (in browser) I've used, component-based front-end framework ANGULAR_14. 
-Specific Components and webpages are created with HTML, Bootstrap and CSS.
-
-
 
 ## Feedback
 
