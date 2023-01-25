@@ -18,7 +18,7 @@ An Employee Management Tool, use for keeping the employee records, reading the i
 **Project Description:** In this project I've tried to build an Employee Management System, which will keep all the employee details of an organization.
 The Basic CRUD operation has performed in order to make this project functional, which are Create, Read, Update and Delete any record.
 
-**Back-end Task:** I've chosen ASP.NET Core 6 backend framework to build and generate the REST API which are POST(create), GET(read), PUT(update) and DELETE(delete) by communicating with the database.
+**Back-end Task:** I've chosen ASP.NET Core 6 Web API backend framework to build and generate the REST API which are POST(create), GET(read), PUT(update) and DELETE(delete) by communicating with the database.
 The API of this project follow the RESTful Web Service and HTTP Protocol and documented with the help of Swagger API Documentation Support.
 For Database table creation and data migration, I used Entity Framework Core ORM Tool, And Microsoft SQL Server Management Studio is used for Database Management purpose.
 
@@ -49,7 +49,7 @@ Specific Components and webpages are created with HTML, Bootstrap and CSS.
 
 ## Feedback
 
-This is just a basic web system for my learning perpose.
-I'm planning to upgrade this system with some useful features, such as: security management, performance increase, server and client side verification and validation in the upcoming updates. 
+This is just a basic web system for my learning purpose.
+I'm planning to upgrade this system with some useful features, such as, security management, performance increase, server and client side verification and validation in the upcoming updates. 
 
 if you've any suggestion please feel free to reach out me at hhasan.cse@gmail.com
